@@ -1,0 +1,21 @@
+.centralizado {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.texto {
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding: 20px;
+}
+.paragrafo-sem-destaque {
+    background-color: #f5f5f5;
+ }
+
+.paragrafo-com-destaque {
+   background-color: #F0CCE2;
+}
+
+h2 {
+    margin: 3%;
+}
